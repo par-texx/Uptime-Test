@@ -14,7 +14,7 @@
 	<elements>
     <element name="process_windows" parameter_type="input" data_type="string" gui_basic="1" range_type="0" hidden="true">
         <control_options> size:40 </control_options>
-        <default_value>plugins/scripts/MonitorPrintQueues/monitor-custom-remote.bat</default_value>
+        <default_value>plugins/scripts/MonitorPrintQueues/MonitorPrintQueues.bat</default_value>
         <short_description>MonitorPrintQueues</short_description>
         <long_description>MonitorPrintQueues</long_description>
         <validation_rule>
